@@ -46,3 +46,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 Estrutura do projeto elaborado por [Alura](https://www.alura.com.br) e construído por [Fernando Furtado](https://github.com/Fernando-EngComputacao/) em curso de Spring Boot.
 
 ---
+## :bookmark: Certificação
+° Certificado do Curso: [Spring Boot 3: boas práticas e proteção da API](https://cursos.alura.com.br/certificate/6f077e71-f864-4681-9c54-47d6a02eba1a)
+
+---
